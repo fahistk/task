@@ -44,7 +44,7 @@ width:100%;
 }
 .label-name{
     font-weight: 600;
-    color: #0016c3;
+     color: #4e4e4e;
 }
 .box {
     padding: 20px;
